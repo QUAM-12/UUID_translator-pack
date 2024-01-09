@@ -1,0 +1,1 @@
+execute in uuid-t:main run function uuid-t:in with entity @s
